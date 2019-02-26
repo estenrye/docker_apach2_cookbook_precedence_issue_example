@@ -1,6 +1,6 @@
 # docker/apache2 Precedence Issue Demonstration Cookbook.
 
-Applies to docker cookbook: 
+Applies to docker cookbook: 4.9.2
 Applies to apache cookbook: 5.2.2 - 6.0.0
 
 This repository is a concrete demonstration of the issues encountered between the docker and apache2 cookbooks in Chef.
